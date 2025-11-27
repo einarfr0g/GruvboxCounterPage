@@ -1,14 +1,16 @@
 
 
 body {
-    background-image: url("image.jpg");
+    background-image: url("image.png");
     background-size: cover;
     font-family: 'Heavy Data', sans-serif;
     font-weight: bold;
     text-align: center;
+    color: rgb(211, 66, 66);
 }
 
 h1 {
+    font-size: 60px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
